@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Panasthetik
-- 👀 I’m interested in blockchain development (Ethereum, Polygon, Solana), digital identity, React / Next.js, web3 integration.
-- 🌱 I’m currently learning Rust, Node.js and Python. 
+- 👀 I’m interested in blockchain development (Solana, Near, Ethereum, Polygon).
+- 🌱 I’m currently learning Rust, React, Next.js. 
 
 <!---
 Panasthetik/Panasthetik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
