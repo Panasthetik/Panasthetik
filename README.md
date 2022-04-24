@@ -1,5 +1,5 @@
 - Hi, I’m @Panasthetik
-- I’m interested in blockchain development (Near, Solana) and Web/Mobile app creation.
+- I’m interested in blockchain / Web3 development (Near, Solana) and mobile/desktop app creation.
 - I’m currently learning Rust, React/Next.js, Dart/Flutter. 
 
 <!---
