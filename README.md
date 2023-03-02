@@ -1,8 +1,7 @@
 - Hi, I’m @Panasthetik
-- I’m interested in blockchain / Web3 development (Near Protocol, Solana NFT's, Internet Computer) and mobile/desktop app creation.
-- Proficient in Rust, Next.js / React and some Solidity.
-- Currently learning Elixir (Phoenix, LiveView) and Dart (Flutter). 
-- I also write technical articles and Web3-related content on Medium :
+- I’m primarily a Rust developer, with a focus on database clients, web API's and decentralized apps (NEAR Protocol).
+- Proficient in Rust, Next.js / React, MongoDB, PostgreSQL, Wasm.
+- I also write technical articles and tech-related content on Medium :
 - https://medium.com/@panasthetik
 
 <!---
