@@ -1,5 +1,5 @@
 - Hi, I’m @Panasthetik
-- Primarily a Rust developer, with a focus on database clients, web API's and decentralized apps (NEAR Protocol).
+- Rust developer primarily, with a focus on database clients, web API's and decentralized apps (NEAR Protocol).
 - Proficient in Rust, Next.js / React, MongoDB, PostgreSQL.
 - I also write technical articles and tech-related content on Medium :
 - https://medium.com/@panasthetik
