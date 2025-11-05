@@ -1,7 +1,7 @@
-- Rust developer primarily
-- [Python, MongoDB, PostgreSQL] secondarily
-- AI experience w/ Cohere, Hugging Face and OpenAI API's
-- Previous projects on NEAR and Ethereum
+- Rust developer
+- Current AI experience w/ xAI, Cohere, Hugging Face and OpenAI 
+- MongoDB, SurrealDB, Postgres + Vector (Qdrant, Atlas, PGVector)
+- Previous blockchain projects on NEAR and Ethereum
 - Certified in Cybersecurity 2024
   
 <!---
